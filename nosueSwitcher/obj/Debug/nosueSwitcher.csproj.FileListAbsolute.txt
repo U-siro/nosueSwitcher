@@ -1,0 +1,15 @@
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\bin\Debug\nosueSwitcher.exe.config
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\bin\Debug\nosueSwitcher.exe
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\bin\Debug\nosueSwitcher.pdb
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\bin\Debug\MetroFramework.Design.dll
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\bin\Debug\MetroFramework.dll
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.csprojAssemblyReference.cache
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.Form1.resources
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.Properties.Resources.resources
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.csproj.GenerateResource.cache
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.csproj.CopyComplete
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.exe
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.pdb
+C:\Users\casta\source\repos\nosueSwitcher\nosueSwitcher\obj\Debug\nosueSwitcher.Form2.resources
